@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Olá, eu sou Maghaiver  <br><br>💻 Estudante de Desenvolvimento Full-Stack, apaixonado por criar soluções que realmente funcionem  <br><br>🌱 Atualmente explorando o Back-End com Node.js e aprendendo a cada projeto  <br><br>🚀 Meu foco é crescer como desenvolvedor Full-Stack, contribuindo com projetos que façam a diferença  <br><br>📫 Email para contato: magaiverg2@gmail.com</p>
+<p align="left">👋 Olá, eu sou Maghaiver  <br><br>💻 Desenvolvedor Full-Stack, apaixonado por criar soluções que realmente funcionem  <br><br>🌱 Atualmente explorando o Back-End com Node.js e aprendendo a cada projeto  <br><br>🚀 Meu foco é crescer como desenvolvedor Full-Stack, contribuindo com projetos que façam a diferença  <br><br>📫 Email para contato: magaiverg2@gmail.com</p>
 
 ###
 
