@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Olá, eu sou Maghaiver  <br><br>💻 Desenvolvedor Full-Stack, apaixonado por criar soluções que realmente funcionem  <br><br>🌱 Atualmente explorando o Back-End com Node.js e aprendendo a cada projeto  <br><br>🚀 Meu foco é crescer como desenvolvedor Full-Stack, contribuindo com projetos que façam a diferença  <br><br>📫 Email para contato: magaiverg2@gmail.com</p>
+<p align="left">👋 Olá, eu sou Maghaiver  <br><br>💻 Estudante de Desenvolvimento Full-Stack, apaixonado por criar soluções que realmente funcionem  <br><br>🌱 Atualmente explorando o Back-End com Node.js e aprendendo a cada projeto  <br><br>🚀 Meu foco é crescer como desenvolvedor Full-Stack, contribuindo com projetos que façam a diferença  <br><br>📫 Email para contato: magaiverg2@gmail.com</p>
 
 ###
 
@@ -18,6 +18,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
 </div>
 
 ###
